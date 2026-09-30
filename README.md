@@ -12,9 +12,10 @@ I also volunteer with Quantum Village at security conferences like DEF CON and B
 
 #### Some of the personal projects I am most proud of:
 
- - An [implementation of the "Diffolio" paper](https://github.com/2theo2blau/diffolio) which uses denoising diffision probabilistic models to optimize portfolio allocations for any basket of stocks or assets, taking into account market conditions, without traditional mean-variance methods.
-
  - My [scripts for software defined radio](https://github.com/2theo2blau/sdr-experiments), which covers several experiments I've run with a HackRF -- including watching the entire FRS/GMRS band at once, with realtime burst detection and a classifier that uses statistical inference to ensure only voice transmissions are written to disk. Additionally, it also includes a module for receiving and decoding digital (DMR) voice transmissions using mbelib and dsd-fme.
+
+
+ - An [implementation of the "Diffolio" paper](https://github.com/2theo2blau/diffolio) which uses denoising diffision probabilistic models to optimize portfolio allocations for any basket of stocks or assets, taking into account market conditions, without traditional mean-variance methods.
 
  - My build of the [Stanford Pupper v3](https://github.com/2theo2blau/pupperv3-mjx) for which I built a quadruped robot (robot dog) from scratch, including hardware assembly, training locomotion policies using reinforcement learning in MuJoCo/JAX, and managing sim2real transfer.
 
